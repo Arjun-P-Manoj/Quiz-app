@@ -28,7 +28,7 @@ An elegant and fully responsive web-based quiz application built using **HTML**,
 ![Category Selection](./assets/quiz_app_select.png)
 
 ### ✅ Correct Answer Feedback
-![Correct Answer](./assets/quiz_app_correct.png)
+![Correct Answer](./assets/quiz_app_incorrect.png)
 
 ### ❌ Incorrect Answer Feedback
 ![Incorrect Answer](./assets/quiz_app_incorrect.png)
